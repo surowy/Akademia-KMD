@@ -13,6 +13,7 @@ namespace HelloWorld.Core
 
             RegisterAppStart<ViewModels.FirstViewModel> ();
             // test 1 
+            //test 2
         }
     }
 }
