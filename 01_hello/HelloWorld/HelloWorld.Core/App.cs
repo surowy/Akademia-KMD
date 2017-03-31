@@ -12,6 +12,7 @@ namespace HelloWorld.Core
                 .RegisterAsLazySingleton ();
 
             RegisterAppStart<ViewModels.FirstViewModel> ();
+            // test 1 
         }
     }
 }
